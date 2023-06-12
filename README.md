@@ -84,5 +84,6 @@ markdown link syntax
 | Name | Email        |
 | ---- | ------       |
 | leo  | leo@dude.com |
+| kai  | kai@dude.com |
 
 
