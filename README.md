@@ -85,5 +85,7 @@ markdown link syntax
 | ---- | ------       |
 | leo  | leo@dude.com |
 | kai  | kai@dude.com |
+| boo  | kai@dude.com |
+
 
 
